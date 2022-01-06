@@ -1,0 +1,8 @@
+hello 
+
+how are you 
+
+origin = https://github.com/codevodecode/learn-git.git
+ git add . 
+ hello
+ 
