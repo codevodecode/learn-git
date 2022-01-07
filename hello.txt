@@ -7,5 +7,5 @@ Untracked  =  jus new files which are created
 tracked  = git add sample.txt >  staging area
 					 git commit -m "first commit" >  unmodified files
 
-
+https://github.com/codevodecode/learn-git.git
 					 
