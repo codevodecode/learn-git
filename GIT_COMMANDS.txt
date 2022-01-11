@@ -1,0 +1,52 @@
+
+git status
+git log 
+git commit --amend
+git reset HEAD filename
+git restore --staged filename
+git checkout -- CONTRIBUTING.md
+git restore filename
+
+
+
+
+
+
+
+git clone https://github.com/schacon/ticgit
+git remote add john https://github.com/paulboone/ticgit
+git fetch originname
+
+git remote show originname
+git remote rename one to-another
+git remote remove originname
+
+
+git fetch originname - fetch data on local
+git pull originname master -  fetch and merge data on local
+
+
+ 
+
+
+
+
+git tag 
+git tag -l "v1.8.5*" // searching
+Annotated ,lightweight  types
+git tag -a v1.4 -m "my version 1.4" //Annotated
+git show v1.4
+git tag v1.4-lw
+git show v1.4-lw
+git log --pretty=oneline
+git tag -a v1.2 9fceb02
+
+git push origin v1.5
+git push origin --tags //all tags
+git tag -d v1.4-lw //delete 
+git push origin --delete <tagname>
+//git checkout v2.0.0 //deatach HEAD
+
+
+
+git config --global alias.ci commit
