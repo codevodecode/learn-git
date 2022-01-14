@@ -1,1 +1,10 @@
-Some basic Linux or git configurations: 
+hello 
+
+how are you 
+
+ git add . 
+ hello
+ 
+origin = https://github.com/codevodecode/learn-git.git
+
+Here is my new code
