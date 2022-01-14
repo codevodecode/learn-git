@@ -50,3 +50,31 @@ git push origin --delete <tagname>
 
 
 git config --global alias.ci commit
+
+
+
+
+
+
+
+
+
+
+
+git branch
+git branch -m master main
+git branch -D master 
+git branch testing
+git checkout -b testing
+git checkout testing
+
+git commit -a -m 'made a change'
+git push origin testing
+
+
+git log --oneline --decorate --graph --all
+
+
+git switch testing-branch. //switch to branch
+git switch -c new-branch //create new branch
+git switch - //switch to master
